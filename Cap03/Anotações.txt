@@ -1,0 +1,9 @@
+O que é modelagem ?
+Modelagem de dados é o processo de criar uma representação visual, ou esquema, que define os sistemas de coleta e gerenciamento de informações de qualquer organização. Esse blueprint ou modelo de dados ajuda diferentes partes interessadas, como analistas de dados, cientistas e engenheiros, a criar uma visão unificada dos dados da organização. O modelo descreve quais dados a empresa coleta, a relação entre diferentes conjuntos de dados e os métodos que serão usados para armazenar e analisar esses dados.
+ - Modelagem de dados é o processo de criação de um modelo conceitual , lógico e físico de dados 
+
+*  O modelo conceitual define os conceitos e as relações entre os dados
+*  Modelo Lógico especifica como os dados serão armazenados e como as relações serão representadas em um banco f de dados.
+* Modelo físico descreve como os dados serão armazenados em um sistema de armazenamento especifíco.
+
+O que é um modelo de dados ? 
